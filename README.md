@@ -4,8 +4,7 @@ LED matrix A large, low-resolution dot-matrix display known as an LED matrix or 
 | component | Description |
 | ----------- | ----------- |
 | Led | Light-emitting diode (LED) is a widely used standard source of light in electrical equipment. It has a wide range of applications ranging from your mobile phone to large advertising billboards. |
-| Arduino | Arduino has a universal serial bus (USB) plug to connect to your computer, and a number of connection sockets that can be wired to external electronics such as motors, relays, light sensors,laser diodes,loudspeakers,microphones, and  more.
-They can be powered through either the USB connection from the computer or from a 9V battery or from a power supply. |
+| Arduino | Arduino has a universal serial bus (USB) plug to connect to your computer, and a number of connection sockets that can be wired to external electronics such as motors, relays, light sensors,laser diodes,loudspeakers,microphones, and  more.|
 
 ### How to use
 
