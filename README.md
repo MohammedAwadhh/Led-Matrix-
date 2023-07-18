@@ -16,6 +16,12 @@ LED matrix A large, low-resolution dot-matrix display known as an LED matrix or 
 These displays have a lot of potential. You must link a matrix's rows and columns to your microcontroller in order to control it. A column must be LOW for any of the LEDs in that column to turn on since the columns are connected to the LEDs' cathodes. Since the rows are wired to the anodes of the LEDs, the row must be HIGH in order for a particular LED to turn on. No electricity goes through the LED and it remains off if the row and the column are both high or low.
 
 
+![Led_Matrix_5x5](https://github.com/MohammedAwadhh/Led-Matrix-/assets/139158830/72b3d07a-b452-48ec-9e9d-23b9d14cb264)
+
+
+
+
+
 
 You may control a single LED by setting its row to HIGH and its column to LOW. Set the row HIGH, take the column HIGH, then set the columns LOW or HIGH as necessary to control several LEDs in a row; a LOW column will turn the corresponding LED ON, while a HIGH column will turn it off.
 
